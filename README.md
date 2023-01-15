@@ -9,11 +9,11 @@ The customers can view flight schedule and also book a specifique flight, and in
 
 
 ### Our application satisfaction is a big priority, so the app will make sure that : 
-1/ guests have a great booking experience through a highly customizable booking form
-2/ Real-time booking . 
+- guests have a great booking experience through a highly customizable booking form
+- Real-time booking . 
 
 
 ## Customer Registration : 
-1/ A contact form to give the booker a safe feeling about their upcoming vacation.
-2/ Reserve their flight . 
-3/ PayPal is a secure and simple way of paying online, which is why it is used with increasing frequency. And by users from anywhere in the world . 
+- A contact form to give the booker a safe feeling about their upcoming vacation.
+- Reserve their flight . 
+- PayPal is a secure and simple way of paying online, which is why it is used with increasing frequency. And by users from anywhere in the world . 

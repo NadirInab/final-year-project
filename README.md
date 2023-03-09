@@ -1,4 +1,4 @@
-# final-year-project
+# final-year-project ✈️ 
 
 Flight booking is a core functionality of any airport now a days, Clients booking by themselves on the Web purchase 47% more profitable optional extra services, and that 61% make their reservation online, A contact form to give the booker a safe feeling about their upcoming vacation.
  
@@ -6,8 +6,7 @@ Flight booking is a core functionality of any airport now a days, Clients bookin
 
 - ``Admin``
 
-- ``Customer`` The traveler is a user who can register 
-The customers can view flight schedule and also book a specifique flight, and in order to reserve their fight they have to be well authentique, and reliable customers.
+- ``Customer ( Traveler )``
 
 ## WorkFlow ( Functionalities ) : 
 
@@ -29,14 +28,21 @@ The customers can view flight schedule and also book a specifique flight, and in
         Once the seat is sold the flight tickets with traveler information(id, Fullname , date, Origin ==> Destination )
         gets generated . 
 
-### Our application satisfaction is a big priority, so the app will make sure that : 
+### Our application satisfaction is a big priority, so the app will make sure that 🤝 : 
 - guests have a great booking experience through a highly customizable booking form .
 - Real-time booking . 
 
 
-## Customer Registration : 
+## Customer Registration 👨‍💻 : 
 - A contact form to give the booker a safe feeling about their upcoming vacation.
 - Inscription / Authentication.
 - Reserve their flight . 
 - PayPal is a secure and simple way of paying online, which is why it is used with increasing frequency. And by users from anywhere in the world . 
 - Flight Ticket get generated once the customer finish all requirement .  
+
+## Technologies Used  :
+
+*   **Frontend** : 
+    *   `` Vue Js ``
+*   **Backend** : 
+    *  `` Laravel ``
